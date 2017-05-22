@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YuWenTao503A20170515</string>
+    <dimen name="shadow_width">5dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+</resources>

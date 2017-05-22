@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YuWenTao.iml" filepath="$PROJECT_DIR$/YuWenTao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" filepath="$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistview/xlistview.iml" filepath="$PROJECT_DIR$/xlistview/xlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuwentao201705221503a/yuwentao201705221503a.iml" filepath="$PROJECT_DIR$/yuwentao201705221503a/yuwentao201705221503a.iml" />
+    </modules>
+  </component>
+</project>
